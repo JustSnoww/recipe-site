@@ -16,3 +16,8 @@ ol {
 ul {
     list-style-type: none;
 }
+
+img {
+    height: auto;
+    width: 300px;
+}
